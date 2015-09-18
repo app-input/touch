@@ -1,0 +1,21 @@
+{
+	"name": "app.input.keys",
+	"version": "0.0.1",
+	"description": "APP Input: Keys",
+	"license": "MIT",
+	"main": "index.html",
+	"keywords": [
+			"app-input"
+	],
+	"ignore": [
+			"**/.*",
+			"components",
+			"node_modules",
+			"bower_components"
+	],
+	"dependencies": {
+		"webcomponentsjs": "*",
+		"backbone.app": "*",
+		"backbone.input.touch": "*"
+	}
+}
